@@ -12,4 +12,4 @@ emp={
 print(emp['id'])
 print(emp['name'])
 print(emp['email'])
-print(emp['loc'])
+print(emp['city'])
